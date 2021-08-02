@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #272727!important;
+}
+
+/* NAVBAR */
+.navbar-brand {
+    border-bottom: solid #dd3e26 2px;
+}
+
+a {
+    color: #fff!important;
+}
+
