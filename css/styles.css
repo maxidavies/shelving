@@ -17,3 +17,11 @@ a {
     color: #fff!important;
 }
 
+.principal {
+    width: 100%;
+    height: 600px;
+}
+
+footer {
+    border-top: solid #dd3e26 2px ;
+}
